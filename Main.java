@@ -2,10 +2,9 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-
-       String name = "Efrosiniya";
-       String surname = "Zinkovskaya";
-       int age = 18;
-        System.out.println(name + " " + surname + " " +age + " лет") ;
+        int b = 1;
+        int c = 2;
+        double a = 4 * (b + c - 1) / 2;
+        System.out.println("a = " + a);
     }
 }
