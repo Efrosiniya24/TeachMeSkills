@@ -25,7 +25,7 @@ public class Main {
         //task4
         System.out.println("\nЗадание 4");
         double u = 2.234;
-        System.out.println("Число 2.234 округляется до" + (int)u);
+        System.out.println("Число 2.234 округляется до" + ((int)(u+0.5)));
 
         //task5
         System.out.println("\nЗадание 5");
