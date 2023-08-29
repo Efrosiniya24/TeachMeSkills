@@ -44,6 +44,11 @@ public class Main {
         a2 = t;
         System.out.println(  a1 + " " + a2);
 
+          //или без использования третей переменной
+//        a1+=a2;
+//        a2=a1-a2;
+//        a1-=a2
+
         //taskCalculator
         System.out.println("\nКалькулятор");
         System.out.println("a = ");
