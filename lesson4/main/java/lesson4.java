@@ -27,6 +27,12 @@ public class lesson4 {
                 case 6 ->{
                     task6();
                 }
+                case 7 ->{
+                    task7();
+                }
+                case 8 ->{
+                    task8();
+                }
             }
         }
     }
@@ -166,16 +172,47 @@ public class lesson4 {
 
         System.out.print("Введите размер массива:");
         int size= sc.nextInt();
-
+        int index;
         int[] array = new int[size];
         while(true){
             System.out.print("Введите индекс массива:");
-            int index = sc.nextInt();
+            while (true) {
+                 index = sc.nextInt();
+                 if(index >=size)
+                     System.out.print("Индекс выходит за пределы массива( Повторите ввод: ");
+                 else break;
+            }
             System.out.print("Введите элемент: ");
             array[index] = sc.nextInt();
 
-            
+            System.out.println("Желаете еще ввести элемент?\n 1)Да\n 2)Нет\n");
+            int operation = sc.nextInt();
+            if(operation !=1 )
+                break;
         }
+        System.out.println("Полученный массив:");
+        for(int i = 0; i<size; i++)
+            System.out.print(array[i] + " ");
+    }
+
+    static void task8(){
+//        Напишите программу на Java, чтобы перевернуть массив целочисленных значений
+        System.out.print("Введите размер массива:");
+        int size= sc.nextInt();
+        int[] array1 = new int[size];
+        int[] array2 = new int[size];
+        System.out.print("Массив: ");
+        for(int i = 0; i< size; i++){
+            array1 [i] =(int) (Math.random()*100);
+            System.out.print(array1[i] + " ");
+        }
+        for(int i = size -1; i > -1; i++)
+            for(int j = 0; j < size ; j++)
+                array2[j] = array1[i];
+
+        System.out.print("Перевернутый массив: ");
+        for (int a : array2)
+            System.out.print(a + " ");
 
     }
 }
