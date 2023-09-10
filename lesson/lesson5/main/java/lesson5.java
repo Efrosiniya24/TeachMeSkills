@@ -226,7 +226,7 @@ public class lesson5 {
         array[4] = ' ';
         array[5] =  '3';
 
-        for()
+
 //        int counter= 0;
 
 //        for(int i = array.length; array[i] == ' '; i++) counter++;
