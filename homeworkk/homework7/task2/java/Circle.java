@@ -1,21 +1,19 @@
 public class Circle extends Figure {
     private final double PI = 3.14;
-    private double r;
-    private final double a = 0;
-    private final double b = 0;
-    private final double c = 0;
+
+    public Circle(double r) {
+        super(r);
+    }
+
     @Override
     public double perimeter(){
-        System.out.println("Периметр круга равен " +(2*PI*r));
-        return 2*PI*r;
+        System.out.println("Периметр круга равен " +(2*PI*this.getR()));
+        return 2*PI*this.getR();
     }
     @Override
     public double square() {
-        System.out.println("Площадь круга равна " +(2*r*r));
-        return 2*r*r;
+        System.out.println("Площадь круга равна " +(2*this.getR()*this.getR()));
+        return 2*this.getR()*this.getR();
     }
 
-    public Circle(double r, double a, double b, double c) {
-        this.r = r;
-    }
 }

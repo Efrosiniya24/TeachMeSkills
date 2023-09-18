@@ -1,23 +1,20 @@
 public class Triangle extends Figure {
-    private final double r = 0;
-    private double a;
-    private double b;
-    private double c;
+
+    public Triangle(double a, double b, double c) {
+        super(a, b, c);
+    }
+
     @Override
     public double perimeter(){
-        System.out.println("Периметр треугольника равен " +(a+b+c));
-        return a+b+c;
+        System.out.println("Периметр треугольника равен " +(this.getA()+this.getB()+this.getC()));
+        return this.getA()+this.getB()+this.getC();
     }
     @Override
     public double square() {
-        double p = (a+b+c)/2;
-        System.out.println("Площадь треугольника равна " + Math.sqrt(p*(p-a)*(p-b)*(p-c)));
-        return Math.sqrt(p*(p-a)*(p-b)*(p-c));
+        double p = (this.getA()+this.getB()+this.getC())/2;
+        System.out.println("Площадь треугольника равна " + Math.sqrt(p*(p-this.getA())*(p-this.getB())*(p-this.getC())));
+        return Math.sqrt(p*(p-this.getA())*(p-this.getB())*(p-this.getC()));
     }
 
-    public Triangle(double r, double a, double b, double c) {
-        this.a = a;
-        this.b = b;
-        this.c = c;
-    }
+
 }
