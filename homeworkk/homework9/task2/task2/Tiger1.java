@@ -1,4 +1,4 @@
-public class Tiger extends Animal1 {
+public class Tiger1 extends Animal1 {
     @Override
     public void voice(){
         System.out.println("\nрррр");

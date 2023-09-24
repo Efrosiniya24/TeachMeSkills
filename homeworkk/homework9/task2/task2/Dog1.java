@@ -1,4 +1,4 @@
-public class Dog extends Animal1 {
+public class Dog1 extends Animal1 {
     @Override
     public void voice(){
         System.out.println("\nГав");
@@ -9,6 +9,10 @@ public class Dog extends Animal1 {
         System.out.println("I'm dog");
     }
 
-    public Dog() {
+    private Dog1() {
+    }
+
+    public static Dog1 create(){
+        return new Dog1();
     }
 }

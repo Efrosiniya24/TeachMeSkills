@@ -10,12 +10,19 @@ public class main33 {
 //        туда “Grass” он должен написать в консоли что любит есть травку. Если передадим “Meat”
 //        или другую строку то он будет недоволен
 
+
+//        Задача *:
+//        Написать такой конструктор, который запретит создание объекта класса Dog в других
+//                классах; Найти способ вызывать методы voice(), eat() класса Dog, который позволит
+///       обойти ограничение, наложенное конструктором выше. Объяснить, как работают оба
+//        способа
+
         Scanner sc = new Scanner(System.in);
         String food;
 
-        Animal dog = new Dog();
-        Animal tiger = new Tiger();
-        Animal rabbit = new Rabbit();
+        Animal1 dog = new Dog();
+        Animal1 tiger = new Tiger();
+        Animal1 rabbit = new Rabbit1();
 
         //dog
         dog.voice();
