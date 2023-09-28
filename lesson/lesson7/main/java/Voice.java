@@ -1,3 +1,3 @@
-public interface Voice {
-    void doVoice();
-}
+//public interface Voice {
+//    void doVoice();
+//}

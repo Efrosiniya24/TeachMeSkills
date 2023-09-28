@@ -1,3 +1,3 @@
-public abstract class Computer {
-     public abstract void getClassName();
-}
+//public abstract class Computer {
+//     public abstract void getClassName();
+//}
