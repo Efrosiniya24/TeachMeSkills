@@ -18,6 +18,7 @@ public class Main {
 //        Метод возвращает true, если значения верны, false в противном случае
 
         Scanner sc = new Scanner(System.in);
+        boolean t = true;
 
         System.out.print( "Введите логин: ");
         String login = sc.nextLine();
@@ -28,6 +29,11 @@ public class Main {
         System.out.print( "Введите повторный пароль: ");
         String confirmPassword = sc.nextLine();
 
-        Regestration.regestration(login, password, confirmPassword);
+        try {
+            Regestration.regestration(login, password, confirmPassword);
+        } catch (WrongLoginException |WrongPasswordException e) {
+            System.out.println(e.getMessage());
+        }
+
     }
 }
