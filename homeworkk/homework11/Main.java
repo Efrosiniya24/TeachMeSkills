@@ -1,7 +1,6 @@
 package homework11;
 
 import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
 //        Задача 1:
@@ -32,7 +31,7 @@ public class Main {
         try {
             Regestration.regestration(login, password, confirmPassword);
         } catch (WrongLoginException |WrongPasswordException e) {
-            System.out.println(e.getMessage());
+            System.err.println(e.getMessage());
         }
 
     }
