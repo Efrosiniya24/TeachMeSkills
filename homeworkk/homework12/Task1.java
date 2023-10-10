@@ -29,7 +29,7 @@ public class Task1 {
                 max= t.length();
                 search = t;
             }
-       Serializator.serialization("Самое длинное слово в файле: " + search);
-       System.out.println(Serializator.deserialization());
+       Serializator.serialization("Самое длинное слово в файле: " + search, "answer");
+       System.out.println(Serializator.deserialization("answer"));
     }
 }
