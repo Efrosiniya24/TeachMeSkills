@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/documents.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/Task2/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/Task3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework13/Task1.java" afterDir="false" />
+    <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworkk/homework12/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/homeworkk/homework12/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -331,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697017905065</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=".">
+      <created>1697384428087</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697384428087</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
