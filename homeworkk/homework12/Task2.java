@@ -6,7 +6,7 @@ import java.io.Serializable;
 import java.util.Scanner;
 
 public class Task2{
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws FileNotFoundException, RuntimeException {
         Scanner sc = new Scanner(System.in);
         StringBuilder line = new StringBuilder();
         String document;

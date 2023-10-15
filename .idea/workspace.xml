@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="homework12" />
+    <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/documents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/Task2/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/Task3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework13/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworkk/homework12/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/homeworkk/homework12/Task2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +61,10 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Фрося/Программирование/TMS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -60,6 +73,10 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Фрося\Программирование\TMS" />
+      <recent name="D:\Фрося\Программирование\TMS\homeworkk\homework12" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Фрося\Программирование\TMS\homeworkk" />
       <recent name="D:\Фрося\Программирование\TMS\homeworkk\homework" />
@@ -74,13 +91,39 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework12.Task2">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson13.Task2" />
+  <component name="RunManager" selected="Application.Task3.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.Main" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson13.*" />
+          <option name="PATTERN" value="Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework13.Task1" />
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3.Main" />
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,45 +153,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson13.Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson13.Task3" />
-      <module name="lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson13.Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson13.Task4" />
-      <module name="lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="TMS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="TMS" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,10 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework12.Task2" />
+        <item itemvalue="Application.Task3.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.homework12.Task1" />
-        <item itemvalue="Application.lesson13.Task4" />
-        <item itemvalue="Application.lesson13.Task3" />
+        <item itemvalue="Application.homework12.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +208,9 @@
       <option name="presentableId" value="Default" />
       <updated>1694938060035</updated>
       <workItem from="1696502444919" duration="118000" />
+      <workItem from="1697360561044" duration="1477000" />
+      <workItem from="1697362143551" duration="536000" />
+      <workItem from="1697362691757" duration="2338000" />
     </task>
     <task id="LOCAL-00001" summary="homework7">
       <created>1694938865317</created>
@@ -316,8 +324,18 @@
       <option name="project" value="LOCAL" />
       <updated>1696969929812</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary=".">
+      <created>1697017905065</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697017905065</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework7" />
@@ -331,6 +349,7 @@
     <MESSAGE value="lesson12 task4" />
     <MESSAGE value="lesson13" />
     <MESSAGE value="homework12" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework12" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
