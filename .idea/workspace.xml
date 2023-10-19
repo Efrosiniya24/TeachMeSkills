@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework14/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework14/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework14/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework14/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework14/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Mango.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,13 +92,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task5">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.Task2" />
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.Task1" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.*" />
+          <option name="PATTERN" value="lesson15.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework14.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.Task1" />
+    <configuration name="lesson15.Task2.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15.Task2.Task2" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.*" />
+          <option name="PATTERN" value="lesson15.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.lesson15.Task2.Task2" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.homework14.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697481986231</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="&#10;.">
+      <created>1697640633753</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697640633753</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +386,8 @@
     <MESSAGE value="lesson13" />
     <MESSAGE value="homework12" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="&#10;." />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
