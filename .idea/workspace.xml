@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson15/Task3/Mango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework15/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework15/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +63,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -92,7 +86,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson15.Task1" />
       <module name="lesson3" />
@@ -106,25 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.Task3" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework15.Task2" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework14.Task4" />
-      <module name="lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework14.*" />
+          <option name="PATTERN" value="homework15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,6 +119,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework15.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework15.Task1" />
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.homework15.Task1" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.lesson15.Task2.Task2" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697640633753</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="&#10;.">
+      <created>1697737595932</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1697737595932</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
