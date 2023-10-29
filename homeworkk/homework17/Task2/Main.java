@@ -1,4 +1,4 @@
-package homework16.Task2;
+package homework17.Task2;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

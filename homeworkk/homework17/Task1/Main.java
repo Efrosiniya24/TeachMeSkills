@@ -1,6 +1,4 @@
-package homework16.Task1;
-
-import com.sun.nio.sctp.SctpMultiChannel;
+package homework17.Task1;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
