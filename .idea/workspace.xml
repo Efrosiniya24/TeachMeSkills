@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson/lesson18/DOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson18/SAX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson18/file.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson18/Hendler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/lesson18/SAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/lesson18/SAX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DOM">
+  <component name="RunManager" selected="Application.SAX">
     <configuration name="DOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson18.DOM" />
       <module name="lesson3" />
@@ -114,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework15.Task2" />
+    <configuration name="SAX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18.SAX" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework15.*" />
+          <option name="PATTERN" value="lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SAX" />
         <item itemvalue="Application.DOM" />
         <item itemvalue="Application.homework17.Task2.Main" />
         <item itemvalue="Application.homework17.Task1.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698590043737</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="&#10;.">
+      <created>1698949048327</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1698949048327</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
