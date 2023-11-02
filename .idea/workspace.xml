@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework16/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson18/DOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson18/SAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/lesson18/file.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,25 +49,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Фрося/БГУИР/2 курс/оопип/laba1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/Frosya/Downloads/Telegram Desktop/xmlParsing",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Фрося\Программирование\TMS" />
@@ -85,7 +87,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework16.Task2.Main">
+  <component name="RunManager" selected="Application.DOM">
+    <configuration name="DOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18.DOM" />
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson16.Main" />
       <module name="lesson3" />
@@ -112,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework15.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework15.Task1" />
+    <configuration name="homework17.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework17.Task1.Main" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework15.*" />
+          <option name="PATTERN" value="homework17.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,25 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework16.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework16.Task1.Main" />
+    <configuration name="homework17.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework17.Task2.Main" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework16.Task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework16.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework16.Task2.Main" />
-      <module name="lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework16.Task2.*" />
+          <option name="PATTERN" value="homework17.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework16.Task2.Main" />
-        <item itemvalue="Application.homework16.Task1.Main" />
+        <item itemvalue="Application.DOM" />
+        <item itemvalue="Application.homework17.Task2.Main" />
+        <item itemvalue="Application.homework17.Task1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.homework15.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +390,28 @@
       <option name="project" value="LOCAL" />
       <updated>1698583223882</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary=".">
+      <created>1698589769714</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1698589769714</updated>
+    </task>
+    <task id="LOCAL-00028" summary="&#10;.">
+      <created>1698589925472</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1698589925472</updated>
+    </task>
+    <task id="LOCAL-00029" summary="&#10;.">
+      <created>1698590043737</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1698590043737</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
