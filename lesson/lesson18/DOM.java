@@ -21,6 +21,7 @@ import org.xml.sax.SAXException;
 
 public class DOM {
     public static void main(String[] args) {
+
         try {
             DocumentBuilder documentBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
             Document document = documentBuilder.parse("lesson/lesson18/file.xml");

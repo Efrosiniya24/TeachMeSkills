@@ -20,4 +20,11 @@ public class Hendler extends DefaultHandler {
             name = false;
         }
     }
+    @Override
+    public void endElement (String uri, String localName, String qName) throws SAXException
+    {
+        if(qName.equalsIgnoreCase("line")){
+            name = false;
+        }
+    }
 }

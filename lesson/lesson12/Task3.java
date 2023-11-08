@@ -11,7 +11,7 @@ public class Task3 {
 
         Serializator.serialization(student);
 
-        Serializator.deserialization(student);
+       Serializator.deserialization(student);
 
         System.out.println(student);
     }
