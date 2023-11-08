@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework18/Serializatorr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework18/Shakespearean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson/lesson12/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/lesson12/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson/lesson18/DOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/lesson18/DOM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson/lesson18/Hendler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/lesson18/Hendler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tms.txt" afterDir="false" />
-    </list>
+    <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -429,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698950816298</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="&#10;.">
+      <created>1699471710007</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1699471710007</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
