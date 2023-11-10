@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework19/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework19/Task1/MaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework19/Task1/MinElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework19/w.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework19/Task2/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework19/Task2/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework19/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework19/Task2/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworkk/homework19/w.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework19.Task1.Main">
+  <component name="RunManager" selected="Application.homework19.Task2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson19.Task2.Main" />
       <module name="lesson3" />
@@ -117,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson19.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson19.Task1.Main" />
+    <configuration name="homework19.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework19.Task2.Main" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson19.Task1.*" />
+          <option name="PATTERN" value="homework19.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework19.Task2.Main" />
         <item itemvalue="Application.homework19.Task1.Main" />
         <item itemvalue="Application.lesson19.Task4.Main" />
         <item itemvalue="Application.lesson19.Task3.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lesson19.Task1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699471787058</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="&#10;.">
+      <created>1699635386672</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1699635386672</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
