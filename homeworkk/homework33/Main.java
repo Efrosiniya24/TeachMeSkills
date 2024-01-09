@@ -1,4 +1,4 @@
-package lesson33;
+package homework33;
 
 public class Main {
     //    Задача 1:
