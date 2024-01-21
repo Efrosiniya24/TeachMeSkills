@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/Adapter/English.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/Adapter/EnglishText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/Adapter/LanguageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/Adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/Adapter/Russian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/Adapter/RussianText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/Facade/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/Facade/signUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworkk/homework31Pattern/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/homeworkk/homework31Pattern/dfegrdhj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworkk/homework31Pattern/dfegrdhj.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +90,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework31Pattern.Adapter.Main">
+  <component name="RunManager" selected="Application.homework31Pattern.Facade.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework30Pattern.AbstractFactory.Main" />
       <module name="lesson3" />
@@ -147,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework30Pattern.Singleton.main" />
+    <configuration name="homework31Pattern.Facade.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework31Pattern.Facade.Main" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework30Pattern.Singleton.*" />
+          <option name="PATTERN" value="homework31Pattern.Facade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework31Pattern.Facade.Main" />
         <item itemvalue="Application.homework31Pattern.Adapter.Main" />
         <item itemvalue="Application.homework30Pattern.Builder.Main" />
         <item itemvalue="Application.homework30Pattern.FactoryMethod.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -547,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705823809755</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="&#10;.">
+      <created>1705824583813</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1705824583813</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
