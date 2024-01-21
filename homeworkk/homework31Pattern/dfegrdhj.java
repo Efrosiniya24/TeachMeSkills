@@ -1,4 +1,5 @@
 package homework31Pattern;
 
-public class Adapter {
+public class dfegrdhj {
+    
 }
