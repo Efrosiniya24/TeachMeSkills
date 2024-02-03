@@ -5,57 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c484d4d-4b10-49ba-97df-19599f6bc46d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework25/Superhero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework25/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworkk/homework25/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson/lesson35/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/bootstrap-5.3.0-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/h1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/DIP/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/DIP/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/DIP/SocialnetworksNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/ISP/BlackForestCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/ISP/Cooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/ISP/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/ISP/Lasagna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/ISP/PeopleAndFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/LSP/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/LSP/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/LSP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/LSP/Mammals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/OCP/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/OCP/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/OCP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/OCP/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/SRP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/SRP/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/SRP/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworkk/homowork29_SOLID/SRP/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +39,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,7 +79,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Фрося/Программирование/TMS/homeworkk/homework25&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Фрося/Программирование/TMS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -140,39 +113,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework31Pattern.Decorator.Main">
-    <configuration name="homework30Pattern.Builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework30Pattern.Builder.Main" />
+  <component name="RunManager" selected="Application.homowork29_SOLID.LSP.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homowork29_SOLID.SRP.Main" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework30Pattern.Builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework30Pattern.FactoryMethod.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework30Pattern.FactoryMethod.Main" />
-      <module name="lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework30Pattern.FactoryMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework31Pattern.Adapter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework31Pattern.Adapter.Main" />
-      <module name="lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework31Pattern.Adapter.*" />
+          <option name="PATTERN" value="homowork29_SOLID.SRP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +140,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework31Pattern.Facade.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework31Pattern.Facade.Main" />
+    <configuration name="homework33.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework33.Main" />
       <module name="lesson3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework31Pattern.Facade.*" />
+          <option name="PATTERN" value="homework33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homowork29_SOLID.LSP.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homowork29_SOLID.LSP.Main" />
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homowork29_SOLID.LSP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homowork29_SOLID.OCP.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homowork29_SOLID.OCP.Main" />
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homowork29_SOLID.OCP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homowork29_SOLID.LSP.Main" />
+        <item itemvalue="Application.homowork29_SOLID.OCP.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.homework33.Main" />
         <item itemvalue="Application.homework31Pattern.Decorator.Main" />
-        <item itemvalue="Application.homework31Pattern.Facade.Main" />
-        <item itemvalue="Application.homework31Pattern.Adapter.Main" />
-        <item itemvalue="Application.homework30Pattern.Builder.Main" />
-        <item itemvalue="Application.homework30Pattern.FactoryMethod.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +258,9 @@
       <workItem from="1705330244576" duration="596000" />
       <workItem from="1705675854155" duration="623000" />
       <workItem from="1705900993051" duration="664000" />
+      <workItem from="1705943831181" duration="596000" />
+      <workItem from="1706117703681" duration="585000" />
+      <workItem from="1706251714450" duration="593000" />
     </task>
     <task id="LOCAL-00001" summary="homework7">
       <created>1694938865317</created>
